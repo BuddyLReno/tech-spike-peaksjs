@@ -1,0 +1,14 @@
+{
+  "name": "test-rails-app",
+  "private": true,
+  "dependencies": {
+    "konva": "https://github.com/lampo/konva",
+    "peaks.js": "https://github.com/bbc/peaks.js",
+    "requirejs": "^2.3.6",
+    "waveform-data": "^2.1.2"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Buddy Reno <buddy.reno@daveramsey.com>",
+  "license": "MIT"
+}
